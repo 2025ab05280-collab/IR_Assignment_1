@@ -1,0 +1,1 @@
+We built a high-performance information retrieval system for our research laboratory. This system indexes documents and handles user search queries efficiently.

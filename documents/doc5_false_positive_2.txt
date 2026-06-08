@@ -1,0 +1,1 @@
+In our academic coursework, we cover information retrieval in depth during the first half of the semester. Separately, our laboratory maintains a fast retrieval system that pulls records from the database whenever a user submits a request. The two topics are deliberately taught in different weeks, so the phrase is never written as one continuous unit anywhere in this document.
